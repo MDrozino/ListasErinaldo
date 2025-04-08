@@ -1,0 +1,50 @@
+1;Linha Azul;Metrô;Centro
+2;Linha Verde;Metrô;Zona Sul
+3;Expresso Norte;Ônibus;Zona Norte
+4;Circular Leste;Ônibus;Zona Leste
+5;Linha Vermelha;Metrô;Zona Oeste
+6;BRT Express;Ônibus;Centro
+7;Linha Amarela;Trem;Zona Norte
+8;Linha 1;Metrô;Centro
+9;Linha 2;Metrô;Zona Sul
+10;Expresso Oeste;Ônibus;Zona Oeste
+11;Circular Sul;Ônibus;Zona Sul
+12;Linha 3;Metrô;Zona Norte
+13;Expresso Leste;Ônibus;Zona Leste
+14;Linha 4;Metrô;Zona Oeste
+15;BRT Norte;Ônibus;Zona Norte
+16;Linha 5;Metrô;Zona Sul
+17;Expresso Centro;Ônibus;Centro
+18;Linha 6;Metrô;Zona Norte
+19;Circular Oeste;Ônibus;Zona Oeste
+20;BRT Sul;Ônibus;Zona Sul
+21;Linha 7;Metrô;Zona Leste
+22;Expresso Sul;Ônibus;Zona Sul
+23;Linha 8;Metrô;Zona Leste
+24;Expresso Zona Oeste;Ônibus;Zona Oeste
+25;Linha 9;Metrô;Zona Norte
+26;BRT Leste;Ônibus;Zona Leste
+27;Linha 10;Metrô;Zona Oeste
+28;Expresso Zona Sul;Ônibus;Zona Sul
+29;Linha 11;Metrô;Centro
+30;BRT Zona Norte;Ônibus;Zona Norte
+31;Linha 12;Metrô;Zona Sul
+32;Expresso Zona Leste;Ônibus;Zona Leste
+33;Linha 13;Metrô;Zona Leste
+34;Circular Centro;Ônibus;Centro
+35;BRT Zona Oeste;Ônibus;Zona Oeste
+36;Linha 14;Metrô;Zona Oeste
+37;Expresso Zona Norte;Ônibus;Zona Norte
+38;Linha 15;Metrô;Zona Sul
+39;BRT Zona Sul;Ônibus;Zona Sul
+40;Linha 16;Metrô;Zona Norte
+41;Expresso Zona Centro;Ônibus;Centro
+42;Linha 17;Metrô;Zona Leste
+43;BRT Zona Leste;Ônibus;Zona Leste
+44;Linha 18;Metrô;Zona Oeste
+45;Expresso Zona Oeste;Ônibus;Zona Oeste
+46;Linha 19;Metrô;Zona Sul
+47;BRT Norte-Sul;Ônibus;Zona Sul
+48;Linha 20;Metrô;Zona Norte
+49;Expresso Norte-Sul;Ônibus;Zona Norte
+50;Linha 21;Metrô;Centro
